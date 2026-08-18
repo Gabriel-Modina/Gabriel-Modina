@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Best Practices and Concepts for Architecture and Dimensional Design**
 
-- 📫 How to reach me **gabriel.modina@alumni.usp.br**
+- 📫 How to reach me **gabmodina@gmail.com**
 - Check my <a href="https://leetcode.com/u/gabriel-modina/" target="blank"> LeetCode </a>
 
 <h3 align="left">Connect with me:</h3>
